@@ -1,0 +1,16 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true,
+    "settingsSync.ignoredSettings": [
+        "-php.validate.executablePath"
+    ],
+    "php.validate.executablePath":"c://xampp//php//php.exe",
+    "liveServer.settings.host": "http://127.0.0.7:5500/",
+    "liveServer.settings.proxy": {
+        "proxyUri": "http://127.0.0.7:80"
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    
+}
